@@ -1,0 +1,37 @@
+body{
+ 
+    background: #d2d2c1 url(/img/fundo.png);
+    font-size: 16px color black;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    align-items: center;
+}
+
+#principal{
+    width: auto;
+    
+
+}
+
+#menu {
+    background: #c5c5b2;
+    border: 0px solid grey;
+    padding: 18px; width: 865px;
+}
+ 
+a{  color: #4b566a;
+    display: inline;
+    text-decoration: none;
+    font-weight: bold; padding: 5px;
+}
+
+#conteudo{
+    background-color: white; width: 900px;
+}
+
+
+
+h1{
+    color: #828217;
+    font-size: 1.2em;
+}
+
